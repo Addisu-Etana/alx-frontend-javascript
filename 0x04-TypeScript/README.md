@@ -1,6 +1,6 @@
-##0x04. Typescript
+#0x04. Typescript
 
-##Learning Objectives
+#Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 Basic types in Typescript
@@ -13,7 +13,7 @@ How to use an ambient Namespace to import an external library
 Basic nominal typing with Typescript
 
 
-##Requirements
+#Requirements
 Allowed editors: vi, vim, emacs, Visual Studio Code
 All your files should end with a new line
 All your files will be transpiled on Ubuntu 18.04
