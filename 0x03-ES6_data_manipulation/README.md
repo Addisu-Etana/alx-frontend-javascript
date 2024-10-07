@@ -3,14 +3,14 @@
 #Resources
 Read or watch:
 
--[ Array ] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+-[ Array - Array ] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
--[ Typed Array ] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Typed_arrays)
--[ set Data Structure ] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)
+-[ Typed Array - Typed Array ] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Typed_arrays)
+-[ set Data Structure - set Data Structure ] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)
 
--[ Map data Structure ] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
+-[ Map data Structure - Map data Structure ] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
 
--[ WeakMap ] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap)
+-[ WeakMap - WeakMap ] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap)
 
 ##  Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
