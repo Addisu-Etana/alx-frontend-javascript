@@ -1,7 +1,8 @@
 # 0x03. ES6 data manipulation
 
-#Resources
-Read or watch:
+## Resources
+
+# Read or watch:
 
 -[Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
